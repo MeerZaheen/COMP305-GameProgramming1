@@ -159,7 +159,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: p3_walk
+  m_Name: p2_walk
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -174,7 +174,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: ceb7c150b1cef9443a4c8de4166e5ef0, type: 2}
+  m_Motion: {fileID: 7400000, guid: 603e60bd5ca239a48b5c2bf2f899bec2, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -186,7 +186,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: p1_jump
+  m_Name: p2_jump
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -200,7 +200,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 02706d67d383aef4fb3db198d3988a8f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 65d6c1edfe88ff54fa5716a9ec4a3f90, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -212,7 +212,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: p3_idle
+  m_Name: p2_idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -227,7 +227,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 58e31590cc763dc43a001ab1527d388b, type: 2}
+  m_Motion: {fileID: 7400000, guid: a51519d2d38f0c44aa6a5e6a25c7c1aa, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
